@@ -1,5 +1,5 @@
 {% set name = "GeneralisedFormanRicci" %}
-{% set version = "0.0.6" %}
+{% set version = "0.0.8" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/GeneralisedFormanRicci-{{ version }}.tar.gz
-  sha256: 928a271f7382111e264fc9708bc8073b5182eb3209f563fa423a1deca06bc768
+  sha256: e909981f4bf6d4416c06ca589df0013099642e663482dac1712e0e006d30188e
 
 build:
   number: 0
