@@ -7,7 +7,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/GeneralisedFormanRicci-{{ version }}.linux-x86_64.tar.gz
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/GeneralisedFormanRicci-{{ version }}.gz
   sha256: 54240b3dcd087d29a4611f55de359078880ffe289100f338532013bcf2977689
 
 build:
